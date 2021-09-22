@@ -38,3 +38,6 @@ C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.dll
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.pdb
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.pdb
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\Details.cshtml.g.cs
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\Edit.cshtml.g.cs
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll

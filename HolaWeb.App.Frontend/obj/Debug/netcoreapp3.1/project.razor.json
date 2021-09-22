@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\Pages\\Saludos\\Edit.cshtml",
+      "TargetPath": "Pages\\Saludos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
@@ -14424,6 +14429,11 @@
     {
       "FilePath": "c:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\Pages\\Saludos\\List.cshtml",
       "TargetPath": "Pages\\Saludos\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\Pages\\Saludos\\Details.cshtml",
+      "TargetPath": "Pages\\Saludos\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
